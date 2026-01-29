@@ -1,0 +1,17 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels (si tu en utilises)
+venv/
+env/
+.env
+
+# Paramètres de l'éditeur (VS Code, PyCharm...)
+.idea/
+.vscode/
+*.swp
+
+# Fichiers Système
+.DS_Store
+Thumbs.db
